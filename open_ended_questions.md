@@ -1,0 +1,40 @@
+1. Policyholder Characteristics
+How does customer age influence the likelyhood of filling a claim?
+Does the subscription length affect the frequency or probability of claims?
+Are there regional differences in claim rates based on region_density?
+
+2. Vehicle Characteristics
+How does vehicle age impact the probability of a claim?
+Do certain vehicle models have higher claim rates?
+Are vehicles with more airbags or safety features (ESC, TPMS, parking sensors, parking cameras) less likely to file claims?
+How do fuel types affect claim likelihood?
+
+5. Multi-Factor Relationships
+Do young drivers with older vehicles have higher claim rates than older drivers with newer vehicles?
+How do combinations of vehicle characteristics and customer demographics impact claim risk?
+
+6. Exploratory Trends
+Are there any outliers or extreme cases (e.g., very old vehicles with very high claims)?
+Can we identify high risk groups based on vehicle and customer attributes? (corelation heatmap)
+
+
+
+columns to drop :
+
+ 4   region_code                       58592 non-null  object
+ 6   segment                           58592 non-null  object 
+ 9   max_torque                        58592 non-null  object 
+ 10  max_power                         58592 non-null  object  
+ 19  displacement                      58592 non-null  int64 
+ 18  rear_brakes_type                  58592 non-null  object  
+ 20  cylinder                          58592 non-null  int64  
+ 21  transmission_type                 58592 non-null  object 
+ 22  steering_type                     58592 non-null  object 
+ 23  turning_radius
+ 26  gross_weight                      58592 non-null  int64  
+ 27  is_front_fog_lights               58592 non-null  object 
+ 28  is_rear_window_wiper              58592 non-null  object 
+ 29  is_rear_window_washer             58592 non-null  object 
+ 30  is_rear_window_defogger           58592 non-null  object 
+ 34  is_power_steering                 58592 non-null  object 
+ 39  ncap_rating                       58592 non-null  int64  
