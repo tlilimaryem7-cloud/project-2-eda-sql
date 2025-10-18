@@ -8,6 +8,7 @@ How does vehicle age impact the probability of a claim?
 Do certain vehicle models have higher claim rates?
 Are vehicles with more airbags or safety features (ESC, TPMS, parking sensors, parking cameras) less likely to file claims?
 How do fuel types affect claim likelihood?
+how does the car performance impact the claim rate 
 
 5. Multi-Factor Relationships
 Do young drivers with older vehicles have higher claim rates than older drivers with newer vehicles?
@@ -21,13 +22,10 @@ Can we identify high risk groups based on vehicle and customer attributes? (core
 
 columns to drop :
 
- 4   region_code                       58592 non-null  object
+ 
+ 
  6   segment                           58592 non-null  object 
- 9   max_torque                        58592 non-null  object 
- 10  max_power                         58592 non-null  object  
- 19  displacement                      58592 non-null  int64 
  18  rear_brakes_type                  58592 non-null  object  
- 20  cylinder                          58592 non-null  int64  
  21  transmission_type                 58592 non-null  object 
  22  steering_type                     58592 non-null  object 
  23  turning_radius
@@ -37,4 +35,4 @@ columns to drop :
  29  is_rear_window_washer             58592 non-null  object 
  30  is_rear_window_defogger           58592 non-null  object 
  34  is_power_steering                 58592 non-null  object 
- 39  ncap_rating                       58592 non-null  int64  
+  
