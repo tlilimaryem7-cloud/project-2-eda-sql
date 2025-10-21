@@ -11,7 +11,7 @@ How do fuel types affect claim likelihood?
 how does the car performance impact the claim rate 
 
 5. Multi-Factor Relationships
-Do young drivers with older vehicles have higher claim rates than older drivers with newer vehicles?
+How does the combination of customer age and vehicle age affect claim probability? Are middle-aged customers with very old vehicles at higher risk?
 How do combinations of vehicle characteristics and customer demographics impact claim risk?
 
 6. Exploratory Trends
