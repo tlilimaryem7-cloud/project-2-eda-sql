@@ -81,7 +81,7 @@ Now, explore each variable individually - but only the ones relevant to your goa
 •	Use .value_counts() to see frequency counts.
 •	Visualize with bar plots (or pie charts, if you must  ).
 This step helps you understand the shape, spread, and patterns in your key variables.
-•	Step 3: Bivariate EDA (Two Variables at a Time)
+Step 3: Bivariate EDA (Two Variables at a Time)
 After univariate EDA, analyze relationships between two or more variables using:
 •	Grouped summaries (e.g., df.groupby())
 •	Cross-tabs (e.g., pd.crosstab())

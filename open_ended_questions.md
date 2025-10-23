@@ -19,20 +19,3 @@ Are there any outliers or extreme cases (e.g., very old vehicles with very high 
 Can we identify high risk groups based on vehicle and customer attributes? (corelation heatmap)
 
 
-
-columns to drop :
-
- 
- 
- 6   segment                           58592 non-null  object 
- 18  rear_brakes_type                  58592 non-null  object  
- 21  transmission_type                 58592 non-null  object 
- 22  steering_type                     58592 non-null  object 
- 23  turning_radius
- 26  gross_weight                      58592 non-null  int64  
- 27  is_front_fog_lights               58592 non-null  object 
- 28  is_rear_window_wiper              58592 non-null  object 
- 29  is_rear_window_washer             58592 non-null  object 
- 30  is_rear_window_defogger           58592 non-null  object 
- 34  is_power_steering                 58592 non-null  object 
-  
