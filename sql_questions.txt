@@ -1,0 +1,19 @@
+1.What is the total number of insurance claims in the dataset?
+
+2.What is the average claim amount by policy type?
+
+3.Which regions or cities have the highest number of claims?
+
+4.How does the claim amount vary by customer age group?
+
+5.What percentage of claims are flagged as fraudulent?
+
+6.Which customers have submitted multiple claims?
+
+7.What is the total and average claim amount by incident type?
+
+8.How do claim frequencies differ between male and female policyholders?
+
+9.Which policy types generate the highest total claim amounts?
+
+10.How has the number of claims changed over time?
