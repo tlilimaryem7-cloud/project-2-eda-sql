@@ -1,0 +1,19 @@
+1. What is the total number of insurance claims in the dataset?
+
+2. What is the average NCAP rating (proxy for claim “severity”) by vehicle segment?
+
+3. Which regions have the highest number of claims?
+
+4. How does the number of claims vary by driver age group?
+
+5. What percentage of vehicles have claims?
+
+6. Which policies have submitted multiple claims?
+
+7. What is the total number of claims by vehicle age group?
+
+8. How do claim frequencies differ by fuel type?
+
+9. Which segments generate the highest number of claims?
+
+10. How does the number of claims vary by vehicle age group?
